@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:caiotracera/clean-node-api.git",
   "author": "Caio Tracera <ctrcra@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.7.2",
+    "typescript": "^4.4.2"
+  }
 }
